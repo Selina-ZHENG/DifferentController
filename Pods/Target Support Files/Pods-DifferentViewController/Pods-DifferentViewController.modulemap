@@ -1,0 +1,6 @@
+framework module Pods_DifferentViewController {
+  umbrella header "Pods-DifferentViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

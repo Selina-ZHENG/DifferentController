@@ -1,0 +1,6 @@
+framework module Pods_DifferentViewControllerTests {
+  umbrella header "Pods-DifferentViewControllerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
